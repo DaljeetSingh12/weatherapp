@@ -1,0 +1,17 @@
+{
+  "name": "weatherdata",
+  "version": "1.0.0",
+  "description": "This is a Weather App",
+  "main": "WeatherApp.js",
+  "scripts": {
+    "start":"WeatherApp.js",
+    "dev": "nodemon WeatherApp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daljeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}

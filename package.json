@@ -4,7 +4,7 @@
   "description": "This is a Weather App",
   "main": "WeatherApp.js",
   "scripts": {
-    "start":"WeatherApp.js",
+    "start":" node WeatherApp.js",
     "dev": "nodemon WeatherApp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
